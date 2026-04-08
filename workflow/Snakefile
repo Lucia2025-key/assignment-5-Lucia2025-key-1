@@ -1,0 +1,8 @@
+# Load configuration
+configfile: 'config/config.yaml'
+
+
+# Rule all: define the final outputs of the workflow
+rule all:
+    input:
+        # Define all final output files here
