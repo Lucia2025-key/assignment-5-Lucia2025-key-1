@@ -1,0 +1,2 @@
+gene	taxa	alignment_length	variable_sites	gap_fraction
+NS3	9	1854	331	0.0

@@ -1,0 +1,12 @@
+name: r-tree-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-ape
+  - r-phangorn
+  - r-ggplot2
+  - r-ggtree
+  - r-treeio
+  - r-phytools

@@ -1,0 +1,7 @@
+name: amas-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - amas
+  - python

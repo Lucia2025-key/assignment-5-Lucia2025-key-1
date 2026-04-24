@@ -1,0 +1,10 @@
+name: phylo_utils
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython
+  - matplotlib
+  - dendropy
+  - pandas

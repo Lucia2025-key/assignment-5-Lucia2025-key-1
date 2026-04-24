@@ -1,0 +1,11 @@
+tree1	tree2	rf_distance
+E	NS1	16
+E	NS3	10
+E	coalescent	0
+E	concatenated	14
+NS1	NS3	14
+NS1	coalescent	16
+NS1	concatenated	14
+NS3	coalescent	10
+NS3	concatenated	16
+coalescent	concatenated	14

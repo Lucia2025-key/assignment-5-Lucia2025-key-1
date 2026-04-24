@@ -1,0 +1,6 @@
+name: mafft_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - mafft

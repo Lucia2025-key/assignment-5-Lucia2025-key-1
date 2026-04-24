@@ -1,0 +1,6 @@
+name: trimal_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - trimal
