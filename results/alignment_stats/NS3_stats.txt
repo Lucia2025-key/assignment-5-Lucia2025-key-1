@@ -1,0 +1,5 @@
+Gene: NS3
+Taxa: 9
+Alignment_length: 1854
+Variable_sites: 331
+Gap_fraction: 0.0000

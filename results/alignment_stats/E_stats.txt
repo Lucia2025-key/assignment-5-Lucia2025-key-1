@@ -1,0 +1,5 @@
+Gene: E
+Taxa: 10
+Alignment_length: 1485
+Variable_sites: 232
+Gap_fraction: 0.0000

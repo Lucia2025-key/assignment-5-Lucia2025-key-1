@@ -1,0 +1,5 @@
+Gene: NS1
+Taxa: 12
+Alignment_length: 1056
+Variable_sites: 223
+Gap_fraction: 0.0000

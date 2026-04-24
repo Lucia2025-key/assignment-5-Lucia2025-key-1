@@ -1,0 +1,3 @@
+Topological comparison summary
+Robinson-Foulds distances were calculated among individual gene trees, the coalescent species tree, and the concatenated tree.
+Lower RF distance indicates greater topological similarity.

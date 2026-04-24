@@ -1,0 +1,3 @@
+Concordance analysis
+Gene trees were compared with the coalescent and concatenated species trees.
+Discordance may reflect incomplete lineage sorting, missing data, recombination, or locus-specific evolutionary signal.
