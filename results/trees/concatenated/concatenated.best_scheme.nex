@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset E_NS1_NS3 = 1-1485  1486-2541  2542-4395;
+  charpartition mymodels =
+    TIM2+F+G4: E_NS1_NS3;
+end;

@@ -1,0 +1,72 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.7.8
+Gene trees are treated as unrooted
+1 trees read from results/trees/coalescent/gene_trees.tre
+index0
+All output trees will be *arbitrarily* rooted at ON398847.1
+
+======== Running the main analysis
+Number of taxa: 10 (10 species)
+Taxa: [ON398847.1, KJ701507.1, KJ830750.1, KF479233.1, JX470186.1, KR920365.1, KM204118.1, JX073928.1, JX079694.1, JX079690.1]
+Taxon occupancy: {KJ701507.1=1, KF479233.1=1, KM204118.1=1, ON398847.1=1, JX073928.1=1, JX079694.1=1, JX470186.1=1, KJ830750.1=1, JX079690.1=1, KR920365.1=1}
+Number of gene trees: 1
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 35
+Number of Clusters after addition by distance: 35
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:300
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 35
+gradient0 in heuristiic: 35
+partitions formed in 0.076 secs
+Dynamic Programming starting after 0.076 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 210
+Polytree building time: 0.002 seconds.
+Number of quartet trees in the gene trees: 210
+Size of largest cluster: 10
+Greedy score: 210
+estimationFactor: 1.0
+Sub-optimal score: 210
+Total Number of elements weighted: 29
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 1.0
+Optimization score: 210
+Optimal tree inferred in 0.85 secs.
+(KJ701507.1,(KJ830750.1,(KF479233.1,((JX470186.1,KR920365.1),(ON398847.1,(KM204118.1,(JX073928.1,(JX079694.1,JX079690.1))))))));
+Final quartet score is: 210
+Final normalized quartet score is: 1.0
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{JX079694.1, JX079690.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{JX073928.1, JX079694.1, JX079690.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{KM204118.1, JX073928.1, JX079694.1, JX079690.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{JX470186.1, KR920365.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{KJ701507.1, KJ830750.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{KJ701507.1, KJ830750.1, KF479233.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{KJ701507.1, KJ830750.1, KF479233.1, JX470186.1, KR920365.1}
+Extended species tree:
+(ON398847.1,((KM204118.1,(JX073928.1,(JX079694.1,JX079690.1)0.67:0.2876820724517809)0.67:0.2876820724517809)0.67:0.2876820724517809,((JX470186.1,KR920365.1)0.67:0.2876820724517809,(KF479233.1,(KJ830750.1,KJ701507.1)0.67:0.2876820724517809)0.67:0.2876820724517809)0.67:0.2876820724517809));
+Weight calculation took 3.21132E-4 secs
+ASTRAL finished in 1.681 secs

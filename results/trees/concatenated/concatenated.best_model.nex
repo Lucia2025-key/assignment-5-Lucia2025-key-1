@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset E_NS1_NS3 = DNA, 1-1485  1486-2541  2542-4395;
+  charpartition mymodels =
+    TIM2{3.06858,30.1478,100}+F{0.336119,0.200846,0.251978,0.211057}+G4{0.244333}: E_NS1_NS3{0.321101};
+end;
